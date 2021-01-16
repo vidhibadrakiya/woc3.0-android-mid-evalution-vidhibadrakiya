@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="time_table_of_winter_semester_2021">Time Table of winter semester 2021</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="time_table">Time Table</string>
+</resources>

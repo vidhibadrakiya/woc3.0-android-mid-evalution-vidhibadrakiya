@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allan</item>
+        <item>@font/anton</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/chela_one</item>
+        <item>@font/oleo_script_swash_caps</item>
+    </array>
+</resources>
