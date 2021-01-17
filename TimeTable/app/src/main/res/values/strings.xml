@@ -11,7 +11,7 @@
     <string name="monday">Monday</string>
     <string name="it_215_system_software">IT-215 System software</string>
     <string name="el_213_analog_circuits">EL-213 Analog circuits</string>
-    <string name="sc_209_enviromental_studies">SC-209 Enviromental studies</string>
+    <string name="sc_209_enviromental_studies">SC-209 Environmental studies</string>
     <string name="lectures">Lectures</string>
     <string name="back">back</string>
     <string name="lab">Lab</string>
@@ -32,5 +32,8 @@
     <string name="sc_209_environmental_studies">SC-209 Environmental studies</string>
     <string name="thursday">Thursday</string>
     <string name="ct_215_analog_communications_and_transmission_line_theory">CT-215 Analog communications and transmission line theory</string>
+    <string name="friday">Friday</string>
+
+    <string name="cs_201">CS-201</string>
 
 </resources>
