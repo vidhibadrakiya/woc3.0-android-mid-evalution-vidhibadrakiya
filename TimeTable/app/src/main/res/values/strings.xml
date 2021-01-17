@@ -30,4 +30,7 @@
     <string name="sc_201_introductory_computational_physics">SC-201 Introductory computational physics</string>
     <string name="sc_222_probability_statistics_and_information_theory">SC-222 Probability statistics and information theory</string>
     <string name="sc_209_environmental_studies">SC-209 Environmental studies</string>
+    <string name="thursday">Thursday</string>
+    <string name="ct_215_analog_communications_and_transmission_line_theory">CT-215 Analog communications and transmission line theory</string>
+
 </resources>

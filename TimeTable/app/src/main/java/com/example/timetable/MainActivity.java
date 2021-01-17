@@ -16,28 +16,26 @@ public class MainActivity extends AppCompatActivity {
 
     public void b1(View v)
     {
-        String s="one";
         Intent i=new Intent(this, oneactivity.class);
         startActivity(i);
     }
 
     public void b2(View v)
     {
-        String s="two";
         Intent i1=new Intent(this, twoactivity.class);
         startActivity(i1);
     }
 
     public void b3(View v)
     {
-        String s="three";
         Intent i2=new Intent(this, threeactivity.class);
         startActivity(i2);
     }
 
     public void b4(View v)
     {
-
+        Intent i3=new Intent(this, fouractivity.class);
+        startActivity(i3);
     }
 
 
