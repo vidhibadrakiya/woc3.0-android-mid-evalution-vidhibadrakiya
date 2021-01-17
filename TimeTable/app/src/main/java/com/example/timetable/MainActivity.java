@@ -18,13 +18,14 @@ public class MainActivity extends AppCompatActivity {
     {
         String s="one";
         Intent i=new Intent(this, oneactivity.class);
-        String s1="Time Table for Monday";
         startActivity(i);
     }
 
     public void b2(View v)
     {
-
+        String s="two";
+        Intent i1=new Intent(this, twoactivity.class);
+        startActivity(i1);
     }
 
     public void b3(View v)

@@ -20,4 +20,8 @@
     <string name="ct_215">CT-215</string>
     <string name="_10_15_11_30">10:15  11:30</string>
     <string name="_14_00_16_00">14:00 16:00</string>
+    <string name="el_213">EL-213</string>
+    <string name="ct_215_analog_communication_and_transmission_line_theory">CT-215 Analog communication and transmission line theory</string>
+    <string name="sc_221_engineered_materials">SC-221 Engineered materials</string>
+    <string name="tuesday">Tuesday</string>
 </resources>
