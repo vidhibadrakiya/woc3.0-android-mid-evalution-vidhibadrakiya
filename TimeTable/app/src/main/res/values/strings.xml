@@ -24,4 +24,10 @@
     <string name="ct_215_analog_communication_and_transmission_line_theory">CT-215 Analog communication and transmission line theory</string>
     <string name="sc_221_engineered_materials">SC-221 Engineered materials</string>
     <string name="tuesday">Tuesday</string>
+    <string name="sc_209_engineered_materials">SC-209 Engineered materials</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="sc_222">SC-222</string>
+    <string name="sc_201_introductory_computational_physics">SC-201 Introductory computational physics</string>
+    <string name="sc_222_probability_statistics_and_information_theory">SC-222 Probability statistics and information theory</string>
+    <string name="sc_209_environmental_studies">SC-209 Environmental studies</string>
 </resources>

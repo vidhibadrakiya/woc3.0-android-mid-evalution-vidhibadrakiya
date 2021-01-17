@@ -30,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void b3(View v)
     {
-
+        String s="three";
+        Intent i2=new Intent(this, threeactivity.class);
+        startActivity(i2);
     }
 
     public void b4(View v)
