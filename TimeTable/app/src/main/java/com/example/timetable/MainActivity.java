@@ -16,7 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void b1(View v)
     {
-
+        String s="one";
+        Intent i=new Intent(this, oneactivity.class);
+        String s1="Time Table for Monday";
+        startActivity(i);
     }
 
     public void b2(View v)

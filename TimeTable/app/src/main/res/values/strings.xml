@@ -8,4 +8,16 @@
     <string name="fri">FRI</string>
     <string name="sat">SAT</string>
     <string name="time_table">Time Table</string>
+    <string name="monday">Monday</string>
+    <string name="it_215_system_software">IT-215 System software</string>
+    <string name="el_213_analog_circuits">EL-213 Analog circuits</string>
+    <string name="sc_209_enviromental_studies">SC-209 Enviromental studies</string>
+    <string name="lectures">Lectures</string>
+    <string name="back">back</string>
+    <string name="lab">Lab</string>
+    <string name="_12_00_13_15">12:00  13:15</string>
+    <string name="_8_30_9_45">8:30  9:45</string>
+    <string name="ct_215">CT-215</string>
+    <string name="_10_15_11_30">10:15  11:30</string>
+    <string name="_14_00_16_00">14:00 16:00</string>
 </resources>
