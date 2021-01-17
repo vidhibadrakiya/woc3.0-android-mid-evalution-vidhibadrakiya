@@ -47,7 +47,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void b6(View v)
     {
-
+        Intent i5=new Intent(this, sixactivity.class);
+        startActivity(i5);
     }
 
 

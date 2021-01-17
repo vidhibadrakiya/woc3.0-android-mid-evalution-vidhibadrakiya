@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TimeTable">
-        <activity android:name=".fiveactivity"
+        <activity android:name=".sixactivity"
             android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name=".fiveactivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".fouractivity"
             android:parentActivityName=".MainActivity" />
