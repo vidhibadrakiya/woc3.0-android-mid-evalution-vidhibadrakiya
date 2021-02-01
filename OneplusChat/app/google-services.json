@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "627125750197",
+    "project_id": "basicchat-e2ac7",
+    "storage_bucket": "basicchat-e2ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627125750197:android:df30c976d8ddbfef6bf1fc",
+        "android_client_info": {
+          "package_name": "com.example.onepluschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfe9d95Ap5SDA8ARIx3YjmfTC5g3wTi8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627125750197:android:8483d4ea703115246bf1fc",
+        "android_client_info": {
+          "package_name": "com.example.vpluschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfe9d95Ap5SDA8ARIx3YjmfTC5g3wTi8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627125750197:android:6f9ab73e89e7399e6bf1fc",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627125750197-947t5qim59gtgg5t9jirnqet2b5b4577.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "f6e4f8a18d66f2b0822fe9c8717deac337444a13"
+          }
+        },
+        {
+          "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfe9d95Ap5SDA8ARIx3YjmfTC5g3wTi8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627125750197-1c1qgtl5o4i3co4f3bkedk16bcq3fkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
